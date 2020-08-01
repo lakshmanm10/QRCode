@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="lbl_directory">14dp</dimen>
+    <dimen name="lbl_movie_name">28dp</dimen>
+    <dimen name="img_poster_height">220dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">30dp</dimen>
+    <dimen name="right_left_margin">8dp</dimen>
+    <dimen name="nav_header_vertical_spacing">14dp</dimen>
+    <dimen name="nav_header_height">155dp</dimen>
+    <dimen name="fab_margin">14dp</dimen>
+    <dimen name="content_margin">4dp</dimen>
+
+    <dimen name="text_title">20sp</dimen>
+    <dimen name="text_sub_heading">16sp</dimen>
+    <dimen name="text_regular">14sp</dimen>
+    <dimen name="text_subtitle_height">48dp</dimen>
+    <dimen name="text_regular_padding">5dp</dimen>
+
+    <dimen name="icon_size_regular">25dp</dimen>
+    <dimen name="content_margin_small">5dp</dimen>
+    <dimen name="button_horixontal_padding">30dp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_small">10sp</dimen>
+
+    <dimen name="icon_width_40dp">40dp</dimen>
+    <dimen name="float_button_width">100dp</dimen>
+    <dimen name="app_bar_height">50dp</dimen>
+    <dimen name="profile_height">60dp</dimen>
+    <dimen name="min_btn_width">100dp</dimen>
+    <dimen name="min_button_height">40dp</dimen>
+    <dimen name="margin_top_value">3dp</dimen>
+    <dimen name="margin_bottom">20dp</dimen>
+    <dimen name="error_message_margin_top">2dp</dimen>
+    <dimen name="selection_highlight_width">2dp</dimen>
+    <dimen name="badge_height">16dp</dimen>
+    <dimen name="badge_width">16dp</dimen>
+
+    <dimen name="max_review_text_width">170dp</dimen>
+    <dimen name="min_review_text_width">50dp</dimen>
+
+
+    <dimen name="items_top_value">16dp</dimen>
+    <dimen name="edit_text_height">42dp</dimen>
+
+
+    <dimen name="button_left">20dp</dimen>
+
+    <dimen name="list_item_avatar_size">40dp</dimen>
+
+</resources>
